@@ -119,6 +119,9 @@ var l_musicPlaylist = [
 	{youtube: "https://www.youtube.com/watch?v=PXEsU2M8SqI", name: "March on the Jedi Temple"},
 	{youtube: "https://www.youtube.com/watch?v=j3Ed_Vu5Z4Q&t=64s", name: "General Grievous's Theme"},
 	{youtube: "https://www.youtube.com/watch?v=jSKvMyruPTA", name: "The Old Republic Theme"},
+	{youtube: "https://www.youtube.com/watch?v=rZ1xVKyEEeg", name: "Battle of the Heroes"},
+	{youtube: "https://www.youtube.com/watch?v=gvtebCS4ZEs", name: "Battle Over Coruscant"},
+	{youtube: "https://www.youtube.com/watch?v=xlYCxbBZUCY", name: "Duel of the Fates"},
 ];
 
 // Random music order?
@@ -137,7 +140,6 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Jax rocks",
 ];
 
 // Random message order?
