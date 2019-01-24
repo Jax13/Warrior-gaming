@@ -115,13 +115,6 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=VyuVz1_knGQ", name: "Republic Commando Soundtrack: Main Theme"},
-	{youtube: "https://www.youtube.com/watch?v=PXEsU2M8SqI", name: "March on the Jedi Temple"},
-	{youtube: "https://www.youtube.com/watch?v=j3Ed_Vu5Z4Q&t=64s", name: "General Grievous's Theme"},
-	{youtube: "https://www.youtube.com/watch?v=jSKvMyruPTA", name: "The Old Republic Theme"},
-	{youtube: "https://www.youtube.com/watch?v=rZ1xVKyEEeg", name: "Battle of the Heroes"},
-	{youtube: "https://www.youtube.com/watch?v=gvtebCS4ZEs", name: "Battle Over Coruscant"},
-	{youtube: "https://www.youtube.com/watch?v=xlYCxbBZUCY", name: "Duel of the Fates"},
 	{youtube: "https://www.youtube.com/watch?v=0AnhLWUId1U&t=8s", name: "Clone Wars - Warriors"},
 ];
 
