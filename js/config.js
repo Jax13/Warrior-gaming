@@ -122,6 +122,7 @@ var l_musicPlaylist = [
 	{youtube: "https://www.youtube.com/watch?v=rZ1xVKyEEeg", name: "Battle of the Heroes"},
 	{youtube: "https://www.youtube.com/watch?v=gvtebCS4ZEs", name: "Battle Over Coruscant"},
 	{youtube: "https://www.youtube.com/watch?v=xlYCxbBZUCY", name: "Duel of the Fates"},
+	{youtube: "https://www.youtube.com/watch?v=0AnhLWUId1U&t=8s", name: "Clone Wars - Warriors"},
 ];
 
 // Random music order?
@@ -130,7 +131,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 6;
 
 // Enable custom messages?
 // 'true' or 'false'
